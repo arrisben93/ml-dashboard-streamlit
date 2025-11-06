@@ -60,8 +60,3 @@ Ce projet réutilise les compétences vues dans les cours :
 * **Encadrant :** *\BENFRIHA*
 
 ```
-
----
-
-Souhaites-tu que je génère automatiquement le `requirements.txt` pour ce projet aussi ?
-```
